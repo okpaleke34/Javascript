@@ -1,2 +1,2 @@
 # vanilla-javascript-test
-Solving some of job recruiting javascript tasks
+I will commit some of the questions and solution to some of the javascript interview tasks
